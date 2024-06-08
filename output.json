@@ -6,42 +6,28 @@
         },
         {
             "type": "move",
-            "target_x": 69,
-            "target_y": 56
+            "target_x": 57,
+            "target_y": 48
         },
         {
             "type": "move",
-            "target_x": 79,
-            "target_y": 56
-        },
-        {
-            "type": "attack",
-            "target_id": 1
+            "target_x": 52,
+            "target_y": 43
         },
         {
             "type": "move",
-            "target_x": 74,
-            "target_y": 51
+            "target_x": 47,
+            "target_y": 38
         },
         {
             "type": "move",
-            "target_x": 69,
-            "target_y": 46
+            "target_x": 41,
+            "target_y": 34
         },
         {
             "type": "move",
-            "target_x": 64,
-            "target_y": 41
-        },
-        {
-            "type": "move",
-            "target_x": 59,
-            "target_y": 36
-        },
-        {
-            "type": "move",
-            "target_x": 54,
-            "target_y": 31
+            "target_x": 46,
+            "target_y": 29
         },
         {
             "type": "attack",
@@ -53,8 +39,21 @@
         },
         {
             "type": "move",
-            "target_x": 49,
-            "target_y": 26
+            "target_x": 41,
+            "target_y": 34
+        },
+        {
+            "type": "attack",
+            "target_id": 6
+        },
+        {
+            "type": "attack",
+            "target_id": 6
+        },
+        {
+            "type": "move",
+            "target_x": 36,
+            "target_y": 29
         }
     ]
 }

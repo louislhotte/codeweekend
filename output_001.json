@@ -48,13 +48,13 @@
             "target_id": 4
         },
         {
-            "type": "move",
-            "target_x": 47,
-            "target_y": 34
+            "type": "attack",
+            "target_id": 4
         },
         {
-            "type": "attack",
-            "target_id": 6
+            "type": "move",
+            "target_x": 49,
+            "target_y": 26
         }
     ]
 }

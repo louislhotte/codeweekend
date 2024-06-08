@@ -4,7 +4,6 @@ Welcome to the GitHub repository for Team "In It To Win IT"! This document outli
 
 ## Team Members
 - **louislhotte**
-- **romainlhotte**
 
 ## Contest Overview
 The contest begins on **June 7th at 21:00 UTC** and ends on **June 9th at 21:00 UTC**.

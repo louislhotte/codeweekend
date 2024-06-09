@@ -6,63 +6,8 @@
             "target_y": 357
         },
         {
-            "type": "move",
-            "target_x": 320,
-            "target_y": 341
-        },
-        {
             "type": "attack",
-            "target_id": 118
-        },
-        {
-            "type": "attack",
-            "target_id": 81
-        },
-        {
-            "type": "attack",
-            "target_id": 81
-        },
-        {
-            "type": "move",
-            "target_x": 309,
-            "target_y": 324
-        },
-        {
-            "type": "attack",
-            "target_id": 119
-        },
-        {
-            "type": "attack",
-            "target_id": 189
-        },
-        {
-            "type": "attack",
-            "target_id": 189
-        },
-        {
-            "type": "attack",
-            "target_id": 85
-        },
-        {
-            "type": "attack",
-            "target_id": 85
-        },
-        {
-            "type": "move",
-            "target_x": 299,
-            "target_y": 338
-        },
-        {
-            "type": "attack",
-            "target_id": 84
-        },
-        {
-            "type": "attack",
-            "target_id": 83
-        },
-        {
-            "type": "attack",
-            "target_id": 190
+            "target_id": 82
         },
         {
             "type": "move",
@@ -72,54 +17,6 @@
         {
             "type": "attack",
             "target_id": 220
-        },
-        {
-            "type": "move",
-            "target_x": 618,
-            "target_y": 548
-        },
-        {
-            "type": "attack",
-            "target_id": 105
-        },
-        {
-            "type": "attack",
-            "target_id": 105
-        },
-        {
-            "type": "move",
-            "target_x": 601,
-            "target_y": 564
-        },
-        {
-            "type": "attack",
-            "target_id": 106
-        },
-        {
-            "type": "attack",
-            "target_id": 106
-        },
-        {
-            "type": "move",
-            "target_x": 528,
-            "target_y": 248
-        },
-        {
-            "type": "attack",
-            "target_id": 113
-        },
-        {
-            "type": "attack",
-            "target_id": 113
-        },
-        {
-            "type": "move",
-            "target_x": 511,
-            "target_y": 264
-        },
-        {
-            "type": "attack",
-            "target_id": 114
         },
         {
             "type": "move",
@@ -163,10 +60,6 @@
             "target_id": 168
         },
         {
-            "type": "attack",
-            "target_id": 137
-        },
-        {
             "type": "move",
             "target_x": 155,
             "target_y": 309
@@ -186,16 +79,8 @@
         },
         {
             "type": "move",
-            "target_x": 327,
-            "target_y": 302
-        },
-        {
-            "type": "attack",
-            "target_id": 30
-        },
-        {
-            "type": "attack",
-            "target_id": 30
+            "target_x": 358,
+            "target_y": 305
         },
         {
             "type": "move",
@@ -235,69 +120,12 @@
         },
         {
             "type": "move",
-            "target_x": 545,
-            "target_y": 147
-        },
-        {
-            "type": "attack",
-            "target_id": 133
-        },
-        {
-            "type": "move",
-            "target_x": 528,
-            "target_y": 162
-        },
-        {
-            "type": "attack",
-            "target_id": 134
-        },
-        {
-            "type": "attack",
-            "target_id": 134
-        },
-        {
-            "type": "move",
             "target_x": 694,
             "target_y": 413
         },
         {
             "type": "attack",
             "target_id": 21
-        },
-        {
-            "type": "move",
-            "target_x": 679,
-            "target_y": 427
-        },
-        {
-            "type": "attack",
-            "target_id": 20
-        },
-        {
-            "type": "attack",
-            "target_id": 20
-        },
-        {
-            "type": "move",
-            "target_x": 693,
-            "target_y": 442
-        },
-        {
-            "type": "attack",
-            "target_id": 19
-        },
-        {
-            "type": "attack",
-            "target_id": 19
-        },
-        {
-            "type": "move",
-            "target_x": 708,
-            "target_y": 428
-        },
-        {
-            "type": "attack",
-            "target_id": 18
         },
         {
             "type": "move",
@@ -310,8 +138,8 @@
         },
         {
             "type": "move",
-            "target_x": 707,
-            "target_y": 185
+            "target_x": 740,
+            "target_y": 187
         },
         {
             "type": "move",
@@ -330,6 +158,33 @@
         {
             "type": "attack",
             "target_id": 139
+        },
+        {
+            "type": "move",
+            "target_x": 528,
+            "target_y": 248
+        },
+        {
+            "type": "attack",
+            "target_id": 113
+        },
+        {
+            "type": "move",
+            "target_x": 511,
+            "target_y": 264
+        },
+        {
+            "type": "attack",
+            "target_id": 114
+        },
+        {
+            "type": "move",
+            "target_x": 545,
+            "target_y": 147
+        },
+        {
+            "type": "attack",
+            "target_id": 133
         },
         {
             "type": "move",
@@ -371,6 +226,38 @@
         {
             "type": "attack",
             "target_id": 224
+        },
+        {
+            "type": "move",
+            "target_x": 618,
+            "target_y": 548
+        },
+        {
+            "type": "attack",
+            "target_id": 105
+        },
+        {
+            "type": "move",
+            "target_x": 602,
+            "target_y": 531
+        },
+        {
+            "type": "move",
+            "target_x": 585,
+            "target_y": 546
+        },
+        {
+            "type": "attack",
+            "target_id": 107
+        },
+        {
+            "type": "move",
+            "target_x": 602,
+            "target_y": 531
+        },
+        {
+            "type": "attack",
+            "target_id": 108
         },
         {
             "type": "move",
@@ -449,6 +336,67 @@
         },
         {
             "type": "move",
+            "target_x": 679,
+            "target_y": 427
+        },
+        {
+            "type": "attack",
+            "target_id": 20
+        },
+        {
+            "type": "move",
+            "target_x": 693,
+            "target_y": 442
+        },
+        {
+            "type": "attack",
+            "target_id": 19
+        },
+        {
+            "type": "move",
+            "target_x": 708,
+            "target_y": 428
+        },
+        {
+            "type": "attack",
+            "target_id": 18
+        },
+        {
+            "type": "move",
+            "target_x": 601,
+            "target_y": 564
+        },
+        {
+            "type": "attack",
+            "target_id": 106
+        },
+        {
+            "type": "move",
+            "target_x": 302,
+            "target_y": 318
+        },
+        {
+            "type": "attack",
+            "target_id": 119
+        },
+        {
+            "type": "attack",
+            "target_id": 84
+        },
+        {
+            "type": "attack",
+            "target_id": 189
+        },
+        {
+            "type": "attack",
+            "target_id": 85
+        },
+        {
+            "type": "attack",
+            "target_id": 193
+        },
+        {
+            "type": "move",
             "target_x": 203,
             "target_y": 739
         },
@@ -464,6 +412,23 @@
         {
             "type": "attack",
             "target_id": 156
+        },
+        {
+            "type": "move",
+            "target_x": 327,
+            "target_y": 302
+        },
+        {
+            "type": "attack",
+            "target_id": 30
+        },
+        {
+            "type": "attack",
+            "target_id": 121
+        },
+        {
+            "type": "attack",
+            "target_id": 117
         },
         {
             "type": "move",
@@ -599,24 +564,6 @@
         },
         {
             "type": "move",
-            "target_x": 585,
-            "target_y": 546
-        },
-        {
-            "type": "attack",
-            "target_id": 107
-        },
-        {
-            "type": "move",
-            "target_x": 602,
-            "target_y": 531
-        },
-        {
-            "type": "attack",
-            "target_id": 108
-        },
-        {
-            "type": "move",
             "target_x": 495,
             "target_y": 246
         },
@@ -632,6 +579,19 @@
         {
             "type": "attack",
             "target_id": 116
+        },
+        {
+            "type": "move",
+            "target_x": 321,
+            "target_y": 325
+        },
+        {
+            "type": "attack",
+            "target_id": 118
+        },
+        {
+            "type": "attack",
+            "target_id": 81
         },
         {
             "type": "move",
@@ -800,6 +760,48 @@
         {
             "type": "attack",
             "target_id": 68
+        },
+        {
+            "type": "attack",
+            "target_id": 74
+        },
+        {
+            "type": "attack",
+            "target_id": 73
+        },
+        {
+            "type": "move",
+            "target_x": 110,
+            "target_y": 766
+        },
+        {
+            "type": "attack",
+            "target_id": 100
+        },
+        {
+            "type": "attack",
+            "target_id": 99
+        },
+        {
+            "type": "attack",
+            "target_id": 101
+        },
+        {
+            "type": "move",
+            "target_x": 112,
+            "target_y": 733
+        },
+        {
+            "type": "attack",
+            "target_id": 103
+        },
+        {
+            "type": "attack",
+            "target_id": 104
+        },
+        {
+            "type": "attack",
+            "target_id": 102
         }
     ]
 }

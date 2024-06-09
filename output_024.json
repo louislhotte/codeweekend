@@ -11,64 +11,6 @@
         },
         {
             "type": "move",
-            "target_x": 951,
-            "target_y": 344
-        },
-        {
-            "type": "attack",
-            "target_id": 86
-        },
-        {
-            "type": "attack",
-            "target_id": 86
-        },
-        {
-            "type": "move",
-            "target_x": 985,
-            "target_y": 330
-        },
-        {
-            "type": "attack",
-            "target_id": 52
-        },
-        {
-            "type": "move",
-            "target_x": 952,
-            "target_y": 363
-        },
-        {
-            "type": "move",
-            "target_x": 987,
-            "target_y": 387
-        },
-        {
-            "type": "attack",
-            "target_id": 83
-        },
-        {
-            "type": "move",
-            "target_x": 952,
-            "target_y": 363
-        },
-        {
-            "type": "attack",
-            "target_id": 45
-        },
-        {
-            "type": "move",
-            "target_x": 971,
-            "target_y": 330
-        },
-        {
-            "type": "attack",
-            "target_id": 49
-        },
-        {
-            "type": "attack",
-            "target_id": 44
-        },
-        {
-            "type": "move",
             "target_x": 2005,
             "target_y": 355
         },
@@ -100,24 +42,6 @@
             "target_y": 117
         },
         {
-            "type": "move",
-            "target_x": 2189,
-            "target_y": 84
-        },
-        {
-            "type": "attack",
-            "target_id": 3
-        },
-        {
-            "type": "attack",
-            "target_id": 3
-        },
-        {
-            "type": "move",
-            "target_x": 2155,
-            "target_y": 117
-        },
-        {
             "type": "attack",
             "target_id": 2
         },
@@ -141,94 +65,52 @@
         },
         {
             "type": "move",
-            "target_x": 2044,
-            "target_y": 398
+            "target_x": 987,
+            "target_y": 387
         },
         {
             "type": "attack",
-            "target_id": 137
-        },
-        {
-            "type": "attack",
-            "target_id": 137
+            "target_id": 83
         },
         {
             "type": "move",
-            "target_x": 524,
-            "target_y": 579
+            "target_x": 952,
+            "target_y": 363
         },
         {
             "type": "attack",
-            "target_id": 249
-        },
-        {
-            "type": "attack",
-            "target_id": 249
+            "target_id": 86
         },
         {
             "type": "move",
-            "target_x": 1669,
-            "target_y": 389
+            "target_x": 985,
+            "target_y": 330
         },
         {
             "type": "attack",
-            "target_id": 134
-        },
-        {
-            "type": "attack",
-            "target_id": 134
+            "target_id": 52
         },
         {
             "type": "move",
-            "target_x": 1661,
-            "target_y": 427
+            "target_x": 952,
+            "target_y": 363
         },
         {
             "type": "attack",
-            "target_id": 132
-        },
-        {
-            "type": "attack",
-            "target_id": 147
+            "target_id": 45
         },
         {
             "type": "move",
-            "target_x": 1637,
-            "target_y": 462
+            "target_x": 971,
+            "target_y": 330
         },
         {
             "type": "attack",
-            "target_id": 148
+            "target_id": 49
         },
         {
             "type": "attack",
-            "target_id": 131
-        },
-        {
-            "type": "move",
-            "target_x": 1630,
-            "target_y": 346
-        },
-        {
-            "type": "attack",
-            "target_id": 135
-        },
-        {
-            "type": "attack",
-            "target_id": 135
-        },
-        {
-            "type": "move",
-            "target_x": 1961,
-            "target_y": 396
-        },
-        {
-            "type": "attack",
-            "target_id": 139
-        },
-        {
-            "type": "attack",
-            "target_id": 139
+            "target_id": 44
         },
         {
             "type": "move",
@@ -302,24 +184,6 @@
         },
         {
             "type": "move",
-            "target_x": 1302,
-            "target_y": 62
-        },
-        {
-            "type": "attack",
-            "target_id": 19
-        },
-        {
-            "type": "move",
-            "target_x": 1334,
-            "target_y": 98
-        },
-        {
-            "type": "attack",
-            "target_id": 16
-        },
-        {
-            "type": "move",
             "target_x": 1137,
             "target_y": 261
         },
@@ -332,13 +196,13 @@
             "target_id": 37
         },
         {
-            "type": "move",
-            "target_x": 1103,
-            "target_y": 224
+            "type": "attack",
+            "target_id": 36
         },
         {
-            "type": "attack",
-            "target_id": 23
+            "type": "move",
+            "target_x": 1101,
+            "target_y": 295
         },
         {
             "type": "move",
@@ -356,11 +220,96 @@
         },
         {
             "type": "attack",
-            "target_id": 36
+            "target_id": 21
+        },
+        {
+            "type": "move",
+            "target_x": 2044,
+            "target_y": 398
         },
         {
             "type": "attack",
-            "target_id": 21
+            "target_id": 137
+        },
+        {
+            "type": "move",
+            "target_x": 524,
+            "target_y": 579
+        },
+        {
+            "type": "attack",
+            "target_id": 249
+        },
+        {
+            "type": "move",
+            "target_x": 1669,
+            "target_y": 389
+        },
+        {
+            "type": "attack",
+            "target_id": 134
+        },
+        {
+            "type": "attack",
+            "target_id": 147
+        },
+        {
+            "type": "attack",
+            "target_id": 152
+        },
+        {
+            "type": "move",
+            "target_x": 1630,
+            "target_y": 346
+        },
+        {
+            "type": "attack",
+            "target_id": 135
+        },
+        {
+            "type": "move",
+            "target_x": 1598,
+            "target_y": 385
+        },
+        {
+            "type": "attack",
+            "target_id": 151
+        },
+        {
+            "type": "move",
+            "target_x": 1576,
+            "target_y": 420
+        },
+        {
+            "type": "attack",
+            "target_id": 150
+        },
+        {
+            "type": "move",
+            "target_x": 1594,
+            "target_y": 459
+        },
+        {
+            "type": "move",
+            "target_x": 1633,
+            "target_y": 468
+        },
+        {
+            "type": "attack",
+            "target_id": 148
+        },
+        {
+            "type": "attack",
+            "target_id": 131
+        },
+        {
+            "type": "move",
+            "target_x": 1594,
+            "target_y": 459
+        },
+        {
+            "type": "attack",
+            "target_id": 149
         },
         {
             "type": "move",
@@ -409,15 +358,6 @@
         },
         {
             "type": "move",
-            "target_x": 1148,
-            "target_y": 323
-        },
-        {
-            "type": "attack",
-            "target_id": 35
-        },
-        {
-            "type": "move",
             "target_x": 845,
             "target_y": 111
         },
@@ -451,6 +391,15 @@
         {
             "type": "attack",
             "target_id": 80
+        },
+        {
+            "type": "move",
+            "target_x": 1961,
+            "target_y": 396
+        },
+        {
+            "type": "attack",
+            "target_id": 139
         },
         {
             "type": "move",
@@ -507,6 +456,33 @@
         },
         {
             "type": "move",
+            "target_x": 1683,
+            "target_y": 454
+        },
+        {
+            "type": "attack",
+            "target_id": 132
+        },
+        {
+            "type": "move",
+            "target_x": 1708,
+            "target_y": 494
+        },
+        {
+            "type": "attack",
+            "target_id": 128
+        },
+        {
+            "type": "move",
+            "target_x": 1679,
+            "target_y": 533
+        },
+        {
+            "type": "attack",
+            "target_id": 129
+        },
+        {
+            "type": "move",
             "target_x": 570,
             "target_y": 32
         },
@@ -539,10 +515,6 @@
         {
             "type": "attack",
             "target_id": 221
-        },
-        {
-            "type": "attack",
-            "target_id": 268
         },
         {
             "type": "move",
@@ -701,10 +673,6 @@
             "target_id": 111
         },
         {
-            "type": "attack",
-            "target_id": 75
-        },
-        {
             "type": "move",
             "target_x": 934,
             "target_y": 670
@@ -712,6 +680,24 @@
         {
             "type": "attack",
             "target_id": 76
+        },
+        {
+            "type": "move",
+            "target_x": 977,
+            "target_y": 685
+        },
+        {
+            "type": "attack",
+            "target_id": 75
+        },
+        {
+            "type": "move",
+            "target_x": 1006,
+            "target_y": 649
+        },
+        {
+            "type": "attack",
+            "target_id": 74
         },
         {
             "type": "move",
@@ -893,6 +879,15 @@
         },
         {
             "type": "move",
+            "target_x": 1103,
+            "target_y": 224
+        },
+        {
+            "type": "attack",
+            "target_id": 23
+        },
+        {
+            "type": "move",
             "target_x": 2008,
             "target_y": 98
         },
@@ -948,6 +943,15 @@
         {
             "type": "attack",
             "target_id": 117
+        },
+        {
+            "type": "move",
+            "target_x": 1632,
+            "target_y": 764
+        },
+        {
+            "type": "attack",
+            "target_id": 61
         }
     ]
 }

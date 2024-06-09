@@ -44,19 +44,6 @@
         },
         {
             "type": "move",
-            "target_x": 787,
-            "target_y": 407
-        },
-        {
-            "type": "attack",
-            "target_id": 352
-        },
-        {
-            "type": "attack",
-            "target_id": 352
-        },
-        {
-            "type": "move",
             "target_x": 782,
             "target_y": 490
         },
@@ -240,6 +227,54 @@
         },
         {
             "type": "move",
+            "target_x": 787,
+            "target_y": 407
+        },
+        {
+            "type": "attack",
+            "target_id": 352
+        },
+        {
+            "type": "move",
+            "target_x": 760,
+            "target_y": 440
+        },
+        {
+            "type": "attack",
+            "target_id": 351
+        },
+        {
+            "type": "move",
+            "target_x": 727,
+            "target_y": 470
+        },
+        {
+            "type": "attack",
+            "target_id": 182
+        },
+        {
+            "type": "attack",
+            "target_id": 238
+        },
+        {
+            "type": "move",
+            "target_x": 760,
+            "target_y": 440
+        },
+        {
+            "type": "attack",
+            "target_id": 180
+        },
+        {
+            "type": "attack",
+            "target_id": 186
+        },
+        {
+            "type": "attack",
+            "target_id": 181
+        },
+        {
+            "type": "move",
             "target_x": 674,
             "target_y": 300
         },
@@ -285,6 +320,20 @@
         {
             "type": "attack",
             "target_id": 25
+        },
+        {
+            "type": "move",
+            "target_x": 906,
+            "target_y": 815
+        },
+        {
+            "type": "move",
+            "target_x": 885,
+            "target_y": 779
+        },
+        {
+            "type": "attack",
+            "target_id": 73
         },
         {
             "type": "move",
@@ -429,40 +478,6 @@
         {
             "type": "attack",
             "target_id": 298
-        },
-        {
-            "type": "move",
-            "target_x": 742,
-            "target_y": 445
-        },
-        {
-            "type": "attack",
-            "target_id": 351
-        },
-        {
-            "type": "move",
-            "target_x": 713,
-            "target_y": 477
-        },
-        {
-            "type": "attack",
-            "target_id": 182
-        },
-        {
-            "type": "attack",
-            "target_id": 183
-        },
-        {
-            "type": "attack",
-            "target_id": 238
-        },
-        {
-            "type": "attack",
-            "target_id": 181
-        },
-        {
-            "type": "attack",
-            "target_id": 237
         },
         {
             "type": "move",
@@ -1173,19 +1188,6 @@
             "type": "move",
             "target_x": 103,
             "target_y": 532
-        },
-        {
-            "type": "attack",
-            "target_id": 296
-        },
-        {
-            "type": "attack",
-            "target_id": 204
-        },
-        {
-            "type": "move",
-            "target_x": 850,
-            "target_y": 0
         }
     ]
 }
